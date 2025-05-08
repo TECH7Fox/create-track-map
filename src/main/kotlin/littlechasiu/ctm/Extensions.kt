@@ -23,8 +23,8 @@ import com.simibubi.create.content.trains.schedule.destination.ChangeThrottleIns
 import com.simibubi.create.content.trains.schedule.destination.ChangeTitleInstruction
 import com.simibubi.create.content.trains.schedule.destination.DestinationInstruction
 import com.simibubi.create.content.trains.schedule.destination.ScheduleInstruction
-import com.simibubi.create.foundation.utility.Couple
 import littlechasiu.ctm.model.*
+import net.createmod.catnip.data.Couple
 import net.minecraft.resources.ResourceKey
 import net.minecraft.world.level.Level
 import net.minecraft.world.phys.Vec3
